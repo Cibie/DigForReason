@@ -1,0 +1,8 @@
+FirstFloorCorridor
+Stairs
+Bedroom1
+Bedroom2
+Kitchen
+DiningRoom
+LivingRoom
+Bathroom

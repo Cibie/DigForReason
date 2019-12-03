@@ -1,0 +1,7 @@
+TotalNumberOfAgents: 6 EndingTime: 1,028333
+Agent: Io Position: (161.8, 3.3, 177.7) in Stanza2 Time: 1,028333
+Agent: Sara Position: (24.2, 3.3, 29.2) in Stanza4 Time: 1,028333
+Agent: Gian Position: (21.3, 3.3, 28.3) in Stanza4 Time: 1,028333
+Agent: Marco Position: (164.7, 3.3, 178.4) in Stanza2 Time: 1,028333
+Agent: Giuseppe Position: (14.1, 3.3, 178.3) in Stanza3 Time: 1,028333
+Agent: Nala Position: (167.7, 3.3, 178.7) in Stanza2 Time: 1,028333
